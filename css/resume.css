@@ -9,7 +9,6 @@ body {
   padding-top: 54px;
   color: white;
   background-color: DarkSlateGray 	;
-
 }
 
 
@@ -190,7 +189,9 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-  background-color: CadetBlue 	 !important;
+  background-color: DarkSlateGray 	 !important;
+  border-left: 3px solid white;
+
 }
 
 .text-primary {
