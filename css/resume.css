@@ -196,6 +196,7 @@ section.resume-section .resume-item .resume-date {
 
 .text-primary {
   color: #BD5D38 !important;
+  font-weight: bold;
 }
 
 a {
@@ -204,4 +205,9 @@ a {
 
 a:hover, a:focus, a:active {
   color: #824027;
+}
+
+.course {
+  list-style: none;
+
 }
